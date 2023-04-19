@@ -18,6 +18,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## Contato
 
 guscar39@gmail.com
-
-
-
