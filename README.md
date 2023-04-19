@@ -9,7 +9,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://gustavocaron.github.io/nlw-sports/)
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - HTML
 - CSS
